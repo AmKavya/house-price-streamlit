@@ -127,8 +127,7 @@ The application is deployed using **Streamlit Cloud**.
 3. Connect the repository to Streamlit Cloud
 4. Deploy using `app.py` as the entry point
 
-🔗 **Live Application:**  
-https://house-price-app-cmttybkjpeafe4b8e2qxog.streamlit.app/
+
 
 ---
 
